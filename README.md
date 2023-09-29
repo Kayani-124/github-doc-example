@@ -123,8 +123,10 @@ These are the most common hotkeys, but there can be variations depending on your
 Github ectends Markdown to have a list where you can check off items.[<sup>[1]</sup>](#external-references)
 
 - [x] Finish Step 1
-- [ ] Finish Step 2
+- [x] Finish Step 2
 - [x] Finish Step 3
+- [x] Finish Step 4
+- [x] Finish Step 5
 
 # Step 4 - Using Emojis (Optional Task)
 
