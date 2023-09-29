@@ -67,7 +67,7 @@ Because it allows other to copy and past their code tp replicate or research iss
 ```
 Just a note the location of the **Backtick** may vary depending on the type of your keyboard layout, mostly it will be above the *tab key*.
 
-![Backtick](https://github.com/Kayani-124/github-doc-example/assets/77053468/ea5bb85d-47c1-42ca-adf8-14ff8cb34b4e)
+![Photo of the pipe Key on a keyboard](assets/Backtick.png)
 
 Good Cloud Engineers use codeblocks for both code and errors that appear in the console.
 
@@ -75,6 +75,14 @@ Good Cloud Engineers use codeblocks for both code and errors that appear in the 
 ./error.sh: line 4: non_existent_command: command not found
 ```
 > Here is an example of using a codeblock for an error that appears on bash.
+
+## Step 2 - How to take Screenshots.
+
+A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
+
+This is not to be confused with take a photo with your phone
+
+<img width="250px" src="assets/Picture-taken-with-Phone.jpg"> 
 
 ## Step 3 - Using github flavoured Task List
 
@@ -105,6 +113,10 @@ You can use the below format to create Tables:
 | Cloud with Lighting | `:cloud_wwith_lighting:` | 🌩️ |
 ```
 Github extends the functionality of markdown tables to provide more alignment and table cell format options. [<sup>[2]</sup>](#external-references)
+
+Just a note, The location of the **Pipe Key** may vary depending on the type of your keyboard layout, mostly it will be above the *Enter or Retun Key*.
+
+![Picture of the pipe Key on a keyboard](assets/PipeKey.png)
 
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
