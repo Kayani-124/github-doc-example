@@ -82,7 +82,41 @@ A screenshot is when you capture a part of your screen from your laptop, desktop
 
 This is not to be confused with take a photo with your phone
 
+**DO NOT DO THIS**
+
 <img width="250px" src="assets/Picture-taken-with-Phone.jpg"> 
+
+This is what a screenshot from your computer ahould look like.
+
+The hotkey for taking screenshots can vary depending on your operating system. Here are common hotkeys for taking screenshots on popular operating systems:
+
+**Windows:**
+
+1. **Full Screen:** Press the `PrtScn` (Print Screen) key. The screenshot is copied to your clipboard, and you can paste it into an image editor or document.
+
+2. **Active Window:** To capture only the active window, press `Alt + PrtScn`. The screenshot is copied to your clipboard.
+
+3. **Snipping Tool (Windows 7 and 8):** You can use the Snipping Tool by pressing `Windows Key + Shift + S` on Windows 10.
+
+4. **Snip & Sketch (Windows 10):** Press `Windows Key + Shift + S` to open Snip & Sketch for more advanced screenshot options.
+
+5. **Snip & Sketch Shortcut (Windows 10):** Press `Windows Key + Shift + S` to take a screenshot directly using Snip & Sketch.
+
+**macOS:**
+
+1. **Full Screen:** Press `Shift + Command + 3` to capture the entire screen. The screenshot is saved to your desktop.
+
+2. **Partial Screen:** Press `Shift + Command + 4`, and then drag to select the area you want to capture. The screenshot is saved to your desktop.
+
+3. **Active Window:** Press `Shift + Command + 4`, then press the `Spacebar`. Click on the window you want to capture. The screenshot is saved to your desktop.
+
+**Linux (varies by desktop environment):**
+
+- Many Linux distributions use a screenshot utility, often activated by pressing `PrtScn`. The behavior can vary depending on the desktop environment (e.g., GNOME, KDE, XFCE), so check your specific Linux distribution's documentation for details.
+
+These are the most common hotkeys, but there can be variations depending on your specific setup or any third-party screenshot tools you might have installed.
+
+![The Right way to take a screenshot](assets/Screenshots.png)
 
 ## Step 3 - Using github flavoured Task List
 
