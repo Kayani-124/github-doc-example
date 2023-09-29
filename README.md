@@ -152,6 +152,8 @@ Just a note, The location of the **Pipe Key** may vary depending on the type of 
 
 ![Picture of the pipe Key on a keyboard](assets/PipeKey.png)
 
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
+
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
   
